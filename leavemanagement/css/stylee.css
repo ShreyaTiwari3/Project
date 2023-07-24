@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.navbar{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%,url(images/logo.png))
+    
+}
+
+.container{
+    width:200px;
+    postion:relative;
+}
+
+.click
+{
+  background-color: black;  
+}
+.click:hover{
+background-color: black;
+}
+
+.click,.links{
+    padding:12px;
+    font-size: futura Md BT;
+    border:none;
+    border:none;
+}
+  
